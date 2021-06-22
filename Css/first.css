@@ -1,0 +1,1221 @@
+body{
+    margin: 0px;
+    font-family: 'Futura PT';
+}
+@media screen and (min-width: 1294px){
+.a_head{
+    text-decoration: none;
+    color: white;
+    font-family: 'Futura PT';
+    font-weight: 100;
+}
+.a_head:hover{
+    color: black;
+}
+.feed{
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    margin-top: 2000px;
+}
+header{
+    z-index: 1;
+    position: fixed;
+    right: 0px;
+    left: 0px;
+    top: 0px;
+    margin-left: 0px;
+    background-color: black;
+    height: 120px;
+    opacity: 90%;
+
+}
+.logo_pic{
+    position: relative;
+    top: 25px;
+    left: 30px;
+}
+.ul_head{
+    position: relative;
+    top: -40px;
+    margin-left: 800px;
+}
+.tabl:hover{
+    background-color: white;
+    transition: 0.55s;
+    color: black;
+}
+.tabl{
+    display: inline-block;
+    color: white;
+    margin-right: 8%;
+    font-size: 150%;
+    transition: 0.55s;
+}
+.content_headlol{
+    font-size: 600%;
+    margin-top: 0%;
+    font-weight: 500;
+    padding: 0px 20px;
+}
+.content_headlol1{
+    font-size: 600%;
+    margin-top: 0%;
+    font-weight: 500;
+    padding: 0px 20px;
+}
+.text{
+    position: absolute;
+    margin-left: 10%;
+    top: 35%;
+    font-family: 'Rubik mono one', cursive;
+    color: rgb(255, 255, 255);
+    background-color: black;
+}
+.text_fixed{
+    position: relative;
+    top: 50px;
+    text-align: center;
+    font-size: 200%;
+    font-family: 'Rubik mono one', cursive;
+    color: black;
+}
+.gazelle{
+    position: relative;
+    top: 100px;
+    margin-left: 27%;
+    font-size: 400%;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    background-color: black;
+    width: 240px;
+    padding: 15px;
+
+}
+.number{
+    margin-left: 80px;
+
+}
+.cars{
+    font-family: 'Raleway', sans-serif;
+    margin-left: 770px;
+    font-size: 400%;
+    position: relative;
+    top: -79px;
+    color: white;
+    background-color: black;
+    width: 210px;
+    padding: 15px;
+}
+.hr_cars{
+    width: 90%;
+    height: 2px;
+    background-color: black;
+}
+.pic_gazelle{
+    margin-left: 65px;
+    margin-top: 50px;
+}
+.gazelle_text{
+    margin-top: -250px;
+    margin-left: 650px;
+    font-size: 120%;
+    font-family: 'Raleway', sans-serif;
+
+}
+.pic_cars{
+    margin-top: 100px;
+    margin-left: 65px;
+}
+.cars_text{
+    margin-top: -220px;
+    margin-left: 650px;
+    font-size: 120%;
+    font-family: 'Raleway', sans-serif;
+}
+.hr_content{
+    width: 90%;
+    height: 1px;
+    background-color: black;
+    margin-top: 80px;
+}
+.logo_bottom{
+    position: relative;
+    background-color: black;
+    top: 20px;
+    left: 65px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.bottom_text{
+    margin-left: 1100px;
+    font-size: 120%;
+    margin-top: -5%;
+    width: 150px;
+    margin-bottom: 20px;
+}
+}
+@media screen and (max-width: 1293px){
+    .a_head{
+        text-decoration: none;
+        color: white;
+        font-family: 'Raleway', sans-serif;
+    }
+    .a_head:hover{
+        color: black;
+    }
+    .feed{
+        width: 20px;
+        height: 20px;
+        background-color: red;
+        margin-top: 2000px;
+    }
+    header{
+        z-index: 1;
+        position: fixed;
+        right: 0px;
+        left: 0px;
+        top: 0px;
+        margin-left: 0px;
+        background-color: black;
+        height: 120px;
+        opacity: 90%;
+
+    }
+    .logo_pic{
+        position: relative;
+        top: 25px;
+        left: 30px;
+    }
+    .ul_head{
+        position: relative;
+        top: -40px;
+        margin-left: 50%;
+    }
+    .tabl:hover{
+        background-color: white;
+        transition: 0.55s;
+        color: black;
+    }
+    .tabl{
+        display: inline-block;
+        color: white;
+        margin-right: 8%;
+        font-size: 150%;
+        transition: 0.55s;
+    }
+    .content_headlol{
+        font-size: 500%;
+        margin-top: 0%;
+        font-weight: 500;
+        padding: 0px 20px;
+    }
+    .content_headlol1{
+        font-size: 500%;
+        margin-top: 0%;
+        font-weight: 500;
+        padding: 0px 20px;
+    }
+    .text{
+        position: absolute;
+        margin-left: 10%;
+        top: 20%;
+        font-family: 'Rubik mono one', cursive;
+        color: rgb(255, 255, 255);
+        background-color: black;
+    }
+    .text_fixed{
+        position: relative;
+        top: 50px;
+        text-align: center;
+        font-size: 200%;
+        font-family: 'Rubik mono one', cursive;
+        color: black;
+    }
+    .gazelle{
+        position: relative;
+        top: 104px;
+        margin-left: 30%;
+        font-size: 200%;
+        font-family: 'Raleway', sans-serif;
+        color: white;
+        background-color: black;
+        width: 120px;
+        padding: 15px;
+
+    }
+    .number{
+        margin-left: 80px;
+
+    }
+    .cars{
+        font-family: 'Raleway', sans-serif;
+        margin-left: 60%;
+        font-size: 200%;
+        position: relative;
+        top: -10%;
+        color: white;
+        background-color: black;
+        width: 120px;
+        padding: 15px;
+    }
+    .hr_cars{
+        width: 90%;
+        height: 2px;
+        background-color: black;
+    }
+    .pic_gazelle{
+        margin-left: 65px;
+        margin-top: 3%;
+    }
+    .gazelle_text{
+        margin-top: -15%;
+        margin-left: 40%;
+        font-size: 80%;
+        font-family: 'Raleway', sans-serif;
+
+    }
+    .pic_cars{
+        margin-top: 10%;
+        margin-left: 65px;
+    }
+    .cars_text{
+        margin-top: -14%;
+        margin-left: 40%;
+        font-size: 80%;
+        font-family: 'Raleway', sans-serif;
+        height: 16%;
+    }
+    .hr_content{
+        width: 90%;
+        height: 1px;
+        background-color: black;
+        margin-top: 10%;
+    }
+    .logo_bottom{
+        position: relative;
+        background-color: black;
+        top: 2%;
+        left: 65px;
+        padding: 10px;
+        margin-bottom: 20px;
+    }
+    .bottom_text{
+        margin-left: 70%;
+        font-size: 120%;
+        margin-top: -5%;
+        width: 150px;
+        margin-bottom: 20px;
+    }
+    }
+    @media screen and (max-width: 1000px){
+        .a_head{
+            text-decoration: none;
+            color: white;
+            font-family: 'Raleway', sans-serif;
+            font-size: 95%;
+        }
+        .a_head:hover{
+            color: black;
+        }
+        .feed{
+            width: 20px;
+            height: 20px;
+            background-color: red;
+            margin-top: 2000px;
+        }
+        header{
+            z-index: 1;
+            position: fixed;
+            right: 0px;
+            left: 0px;
+            top: 0px;
+            margin-left: 0px;
+            background-color: black;
+            height: 120px;
+            opacity: 90%;
+
+        }
+        .logo_pic{
+            position: relative;
+            top: 25px;
+            left: 30px;
+        }
+        .ul_head{
+            position: relative;
+            top: -40px;
+            margin-left: 40%;
+        }
+        .tabl:hover{
+            background-color: white;
+            transition: 0.55s;
+            color: black;
+        }
+        .tabl{
+            display: inline-block;
+            color: white;
+            margin-right: 8%;
+            font-size: 150%;
+            transition: 0.55s;
+        }
+        .content_headlol{
+            font-size: 400%;
+            margin-top: 0%;
+            font-weight: 500;
+            padding: 0px 20px;
+        }
+        .content_headlol1{
+            font-size: 400%;
+            margin-top: 0%;
+            font-weight: 500;
+            padding: 0px 20px;
+        }
+        .text{
+            position: absolute;
+            margin-left: 10%;
+            top: 30%;
+            font-family: 'Rubik mono one', cursive;
+            color: rgb(255, 255, 255);
+            background-color: black;
+        }
+        .text_fixed{
+            position: relative;
+            top: 50px;
+            text-align: center;
+            font-size: 200%;
+            font-family: 'Rubik mono one', cursive;
+            color: black;
+        }
+        .gazelle{
+            position: relative;
+            top: 104px;
+            margin-left: 30%;
+            font-size: 200%;
+            font-family: 'Raleway', sans-serif;
+            color: white;
+            background-color: black;
+            width: 120px;
+            padding: 15px;
+
+        }
+        .number{
+            margin-left: 80px;
+
+        }
+        .cars{
+            font-family: 'Raleway', sans-serif;
+            margin-left: 55%;
+            font-size: 200%;
+            position: relative;
+            top: -10%;
+            color: white;
+            background-color: black;
+            width: 120px;
+            padding: 15px;
+        }
+        .hr_cars{
+            width: 90%;
+            height: 2px;
+            background-color: black;
+        }
+        .pic_gazelle{
+            margin-left: 65px;
+            margin-top: 3%;
+        }
+        .gazelle_text{
+            margin-top: -15%;
+            margin-left: 40%;
+            font-size: 80%;
+            font-family: 'Raleway', sans-serif;
+
+        }
+        .pic_cars{
+            margin-top: 10%;
+            margin-left: 65px;
+        }
+        .cars_text{
+            margin-top: -14%;
+            margin-left: 40%;
+            font-size: 80%;
+            font-family: 'Raleway', sans-serif;
+            height: 16%;
+        }
+        .hr_content{
+            width: 90%;
+            height: 1px;
+            background-color: black;
+            margin-top: 10%;
+        }
+        .logo_bottom{
+            position: relative;
+            background-color: black;
+            top: 2%;
+            left: 65px;
+            padding: 10px;
+            margin-bottom: 20px;
+        }
+        .bottom_text{
+            margin-left: 70%;
+            font-size: 120%;
+            margin-top: -5%;
+            width: 150px;
+            margin-bottom: 20px;
+        }
+        }
+    @media screen and (max-width: 800px){
+            .a_head{
+                text-decoration: none;
+                color: white;
+                font-family: 'Raleway', sans-serif;
+                font-size: 80%;
+            }
+            .a_head:hover{
+                color: black;
+            }
+            .feed{
+                width: 20px;
+                height: 20px;
+                background-color: red;
+                margin-top: 2000px;
+            }
+            header{
+                z-index: 1;
+                position: fixed;
+                right: 0px;
+                left: 0px;
+                top: 0px;
+                margin-left: 0px;
+                background-color: black;
+                height: 120px;
+                opacity: 90%;
+
+            }
+            .logo_pic{
+                position: relative;
+                top: 25px;
+                left: 30px;
+            }
+            .ul_head{
+                position: relative;
+                top: -40px;
+                margin-left: 40%;
+            }
+            .tabl:hover{
+                background-color: white;
+                transition: 0.55s;
+                color: black;
+            }
+            .tabl{
+                display: inline-block;
+                color: white;
+                margin-right: 5%;
+                font-size: 150%;
+                transition: 0.55s;
+            }
+            .content_headlol{
+                font-size: 400%;
+                margin-top: 0%;
+                font-weight: 500;
+                padding: 0px 20px;
+            }
+            .content_headlol1{
+                font-size: 400%;
+                margin-top: 0%;
+                font-weight: 500;
+                padding: 0px 20px;
+            }
+            .text{
+                position: absolute;
+                margin-left: 10%;
+                top: 25%;
+                font-family: 'Rubik mono one', cursive;
+                color: rgb(255, 255, 255);
+                background-color: black;
+            }
+            .text_fixed{
+                position: relative;
+                top: 50px;
+                text-align: center;
+                font-size: 120%;
+                font-family: 'Rubik mono one', cursive;
+                color: black;
+            }
+            .gazelle{
+                position: relative;
+                top: 104px;
+                margin-left: 25%;
+                font-size: 200%;
+                font-family: 'Raleway', sans-serif;
+                color: white;
+                background-color: black;
+                width: 120px;
+                padding: 15px;
+
+            }
+            .number{
+                margin-left: 80px;
+
+            }
+            .cars{
+                font-family: 'Raleway', sans-serif;
+                margin-left: 55%;
+                font-size: 200%;
+                position: relative;
+                top: -10%;
+                color: white;
+                background-color: black;
+                width: 120px;
+                padding: 15px;
+            }
+            .hr_cars{
+                width: 90%;
+                height: 2px;
+                background-color: black;
+            }
+            .pic_gazelle{
+                margin-left: 65px;
+                margin-top: 3%;
+            }
+            .gazelle_text{
+                margin-top: -110px;
+                margin-left: 45%;
+                font-size: 50%;
+                font-family: 'Raleway', sans-serif;
+
+            }
+            .pic_cars{
+                margin-top: 10%;
+                margin-left: 65px;
+            }
+            .cars_text{
+                margin-top: -14%;
+                margin-left: 45%;
+                font-size: 60%;
+                font-family: 'Raleway', sans-serif;
+                height: 16%;
+            }
+            .hr_content{
+                width: 90%;
+                height: 1px;
+                background-color: black;
+                margin-top: 10%;
+            }
+            .logo_bottom{
+                position: relative;
+                background-color: black;
+                top: 2%;
+                left: 65px;
+                padding: 10px;
+                margin-bottom: 20px;
+            }
+            .bottom_text{
+                margin-left: 70%;
+                font-size: 120%;
+                margin-top: -5%;
+                width: 150px;
+                margin-bottom: 20px;
+            }
+            }
+             @media screen and (max-width: 615px){
+                .logo_p{
+                    text-align: center;
+                    margin-left: -60px;
+                }
+                .a_head{
+                    text-decoration: none;
+                    color: white;
+                    font-family: 'Raleway', sans-serif;
+                    font-size: 80%;
+                    top: 80px;
+                    top: 5px;
+                    padding-top: 7px;
+                }
+                .a_head:hover{
+                    color: black;
+                }
+                .feed{
+                    width: 20px;
+                    height: 20px;
+                    background-color: red;
+                    margin-top: 2000px;
+                }
+                header{
+                    position: absolute;
+                    z-index: 1;
+                    right: 0px;
+                    left: 0px;
+                    top: 0px;
+                    margin-left: 0px;
+                    background-color: black;
+                    opacity: 100%;
+
+                }
+                .logo_pic{
+                    position: relative;
+                }
+                .ul_head{
+                    position: relative;
+                    margin-left: 0%;
+                    top: 40px;
+                }
+                .tabl:hover{
+                    width: 100%;
+                    height: 40px;
+                    transition: 0.55s;
+                    border-radius: 20px;
+                    border: black 1px solid;
+                }
+                .tabl{
+                    background-color: black;
+                    width: 100%;
+                    display: block;
+                    color: white;
+                    text-align: center;
+                    margin-top: 10px;
+                    font-size: 150%;
+                    transition: 0.55s;
+                    margin-left: -20px;
+                    border-radius: 20px;
+                    height: 40px;
+                }
+                .content_headlol{
+                    font-size: 400%;
+                    margin-top: 0%;
+                    font-weight: 500;
+                    padding: 0px 20px;
+                    opacity: 0%;
+                }
+                .content_headlol1{
+                    font-size: 400%;
+                    margin-top: 0%;
+                    font-weight: 500;
+                    padding: 0px 20px;
+                    opacity: 0%;
+                }
+                .text{
+                    position: absolute;
+                    margin-left: 10%;
+                    top: 20%;
+                    font-family: 'Rubik mono one', cursive;
+                    color: rgb(255, 255, 255);
+                    background-color: black;
+                    opacity: 0%;
+                }
+                .text_fixed{
+                    position: relative;
+                    margin-top: -80px;
+                    text-align: center;
+                    font-size: 100%;
+                    font-family: 'Rubik mono one', cursive;
+                    color: black;
+                }
+                .gazelle{
+                    position: relative;
+                    top: 68px;
+                    margin-left: 25%;
+                    font-size: 100%;
+                    font-family: 'Raleway', sans-serif;
+                    color: white;
+                    background-color: black;
+                    width: 70px;
+                    padding: 15px;
+
+                }
+                .number{
+                    margin-left: 30px;
+
+                }
+                .cars{
+                    font-family: 'Raleway', sans-serif;
+                    margin-left: 60%;
+                    font-size: 100%;
+                    position: relative;
+                    top: -10%;
+                    color: white;
+                    background-color: black;
+                    width: 70px;
+                    padding: 15px;
+                    text-align: center;
+                }
+                .hr_cars{
+                    width: 90%;
+                    height: 2px;
+                    background-color: black;
+                }
+                .pic_gazelle{
+                    width: 240px;
+                    height: 120px;
+                    margin-top: 3%;
+                    margin-left: -20px;
+                }
+                .gazelle_text{
+                    margin-top: 20px;
+                    font-size: 50%;
+                    font-family: 'Raleway', sans-serif;
+                    width: 240px;
+                    margin-left: auto;
+                    margin-right: auto;
+                }
+                .pic_cars{
+                    width: 240px;
+                    height: 120px;
+                    margin-top: 3%;
+                    margin-bottom: 60px;
+                    margin-left: -10px;
+                }
+                .cars_text{
+                    font-size: 60%;
+                    font-family: 'Raleway', sans-serif;
+                    margin-left: auto;
+                    margin-right: auto;
+                    width: 240px;
+                    top: 500px;
+                }
+                .hr_content{
+                    width: 90%;
+                    height: 1px;
+                    background-color: black;
+                    margin-top: 10%;
+                }
+                .logo_bottom{
+                    position: relative;
+                    background-color: black;
+                    top: 2%;
+                    left: 3%;
+                    padding: 10px;
+                    margin-bottom: 20px;
+                }
+                .bottom_text{
+                    margin-left: 50%;
+                    font-size: 50%;
+                    margin-top: -5%;
+                    width: 150px;
+                    margin-bottom: 20px;
+                }
+                .phone_gaz{
+                    text-align: center;
+                }
+                .content_gazelle{
+                    text-align: center;
+                }
+                .worker{
+                    opacity: 0%;
+                }
+                .tabl:hover .a_head{
+                    color: black;
+                }
+                .ul_head .tabl {
+                    cursor: pointer;
+                  }
+                  .ul_head .tabl > .a_head {
+                    display: block;
+                  }
+            }
+            @media screen and (max-width: 500px){
+                .logo_p{
+                    text-align: center;
+                    margin-left: -60px;
+                }
+                .a_head{
+                    text-decoration: none;
+                    color: white;
+                    font-family: 'Raleway', sans-serif;
+                    font-size: 60%;
+                    top: 80px;
+                    top: 5px;
+                    padding-top: 10px;
+                }
+                .a_head:hover{
+                    color: black;
+                }
+                .feed{
+                    width: 20px;
+                    height: 20px;
+                    background-color: red;
+                    margin-top: 2000px;
+                }
+                header{
+                    position: absolute;
+                    z-index: 1;
+                    right: 0px;
+                    left: 0px;
+                    top: 0px;
+                    margin-left: 0px;
+                    background-color: black;
+                    opacity: 100%;
+
+                }
+                .logo_pic{
+                    position: relative;
+                }
+                .ul_head{
+                    position: relative;
+                    margin-left: 0%;
+                    top: 40px;
+                }
+                .tabl:hover{
+                    width: 100%;
+                    height: 40px;
+                    transition: 0.55s;
+                    border-radius: 20px;
+                    border: black 1px solid;
+                }
+                .tabl{
+                    background-color: black;
+                    width: 100%;
+                    display: block;
+                    color: white;
+                    text-align: center;
+                    margin-top: 10px;
+                    font-size: 150%;
+                    transition: 0.55s;
+                    margin-left: -20px;
+                    border-radius: 20px;
+                    height: 40px;
+                }
+                .content_headlol{
+                    font-size: 400%;
+                    margin-top: 0%;
+                    font-weight: 500;
+                    padding: 0px 20px;
+                    opacity: 0%;
+                }
+                .content_headlol1{
+                    font-size: 400%;
+                    margin-top: 0%;
+                    font-weight: 500;
+                    padding: 0px 20px;
+                    opacity: 0%;
+                }
+                .text{
+                    position: absolute;
+                    margin-left: 10%;
+                    top: 20%;
+                    font-family: 'Rubik mono one', cursive;
+                    color: rgb(255, 255, 255);
+                    background-color: black;
+                    opacity: 0%;
+                }
+                .text_fixed{
+                    position: relative;
+                    margin-top: -50px;
+                    text-align: center;
+                    font-size: 70%;
+                    font-family: 'Rubik mono one', cursive;
+                    color: black;
+                }
+                .gazelle{
+                    position: relative;
+                    top: 68px;
+                    margin-left: 18%;
+                    font-size: 100%;
+                    font-family: 'Raleway', sans-serif;
+                    color: white;
+                    background-color: black;
+                    width: 70px;
+                    padding: 15px;
+
+                }
+                .number{
+                    margin-left: 30px;
+
+                }
+                .cars{
+                    font-family: 'Raleway', sans-serif;
+                    margin-left: 55%;
+                    font-size: 100%;
+                    position: relative;
+                    top: -10%;
+                    color: white;
+                    background-color: black;
+                    width: 70px;
+                    padding: 15px;
+                    text-align: center;
+                }
+                .hr_cars{
+                    width: 90%;
+                    height: 2px;
+                    background-color: black;
+                }
+                .pic_gazelle{
+                    width: 240px;
+                    height: 120px;
+                    margin-top: 3%;
+                    margin-left: -20px;
+                }
+                .gazelle_text{
+                    margin-top: 20px;
+                    font-size: 50%;
+                    font-family: 'Raleway', sans-serif;
+                    width: 240px;
+                    margin-left: auto;
+                    margin-right: auto;
+                }
+                .pic_cars{
+                    width: 240px;
+                    height: 120px;
+                    margin-top: 3%;
+                    margin-bottom: 60px;
+                    margin-left: -10px;
+                }
+                .cars_text{
+                    font-size: 60%;
+                    font-family: 'Raleway', sans-serif;
+                    margin-left: auto;
+                    margin-right: auto;
+                    width: 240px;
+                    top: 500px;
+                }
+                .hr_content{
+                    width: 90%;
+                    height: 1px;
+                    background-color: black;
+                    margin-top: 10%;
+                }
+                .logo_bottom{
+                    position: relative;
+                    background-color: black;
+                    top: 2%;
+                    left: 3%;
+                    padding: 10px;
+                    margin-bottom: 20px;
+                }
+                .bottom_text{
+                    margin-left: 50%;
+                    font-size: 50%;
+                    margin-top: -18%;
+                    width: 150px;
+                    margin-bottom: 20px;
+                }
+                .phone_gaz{
+                    text-align: center;
+                }
+                .content_gazelle{
+                    text-align: center;
+                }
+                .worker{
+                    width: 80%;
+                    height: 280px;
+                    opacity: 0%;
+                }
+                .tabl:hover .a_head{
+                    color: black;
+                }
+                .ul_head .tabl {
+                    cursor: pointer;
+                  }
+                  .ul_head .tabl > .a_head {
+                    display: block;
+                  }
+            }
+            @media screen and (max-width: 340px){
+                .logo_p{
+                    text-align: center;
+                    margin-left: -60px;
+                }
+                .a_head{
+                    text-decoration: none;
+                    color: white;
+                    font-family: 'Raleway', sans-serif;
+                    font-size: 60%;
+                    top: 80px;
+                    top: 5px;
+                    padding-top: 10px;
+                }
+                .a_head:hover{
+                    color: black;
+                }
+                .feed{
+                    width: 20px;
+                    height: 20px;
+                    background-color: red;
+                    margin-top: 2000px;
+                }
+                header{
+                    position: absolute;
+                    z-index: 1;
+                    right: 0px;
+                    left: 0px;
+                    top: 0px;
+                    margin-left: 0px;
+                    background-color: black;
+                    opacity: 100%;
+
+                }
+                .logo_pic{
+                    position: relative;
+                }
+                .ul_head{
+                    position: relative;
+                    margin-left: 0%;
+                    top: 40px;
+                }
+                .tabl:hover{
+                    width: 100%;
+                    height: 40px;
+                    transition: 0.55s;
+                    border-radius: 20px;
+                    border: black 1px solid;
+                }
+                .tabl{
+                    background-color: black;
+                    width: 100%;
+                    display: block;
+                    color: white;
+                    text-align: center;
+                    margin-top: 10px;
+                    font-size: 150%;
+                    transition: 0.55s;
+                    margin-left: -20px;
+                    border-radius: 20px;
+                    height: 40px;
+                }
+                .content_headlol{
+                    font-size: 400%;
+                    margin-top: 0%;
+                    font-weight: 500;
+                    padding: 0px 20px;
+                    opacity: 0%;
+                }
+                .content_headlol1{
+                    font-size: 400%;
+                    margin-top: 0%;
+                    font-weight: 500;
+                    padding: 0px 20px;
+                    opacity: 0%;
+                }
+                .text{
+                    position: absolute;
+                    margin-left: 10%;
+                    top: 20%;
+                    font-family: 'Rubik mono one', cursive;
+                    color: rgb(255, 255, 255);
+                    background-color: black;
+                    opacity: 0%;
+                }
+                .text_fixed{
+                    position: relative;
+                    padding-top: 30px;
+                    text-align: center;
+                    font-size: 70%;
+                    font-family: 'Rubik mono one', cursive;
+                    color: black;
+                }
+                .gazelle{
+                    position: relative;
+                    top: 68px;
+                    margin-left: 18%;
+                    font-size: 100%;
+                    font-family: 'Raleway', sans-serif;
+                    color: white;
+                    background-color: black;
+                    width: 70px;
+                    padding: 15px;
+
+                }
+                .number{
+                    margin-left: 30px;
+
+                }
+                .cars{
+                    font-family: 'Raleway', sans-serif;
+                    margin-left: 55%;
+                    font-size: 100%;
+                    position: relative;
+                    top: -10%;
+                    color: white;
+                    background-color: black;
+                    width: 70px;
+                    padding: 15px;
+                    text-align: center;
+                }
+                .hr_cars{
+                    width: 90%;
+                    height: 2px;
+                    background-color: black;
+                }
+                .pic_gazelle{
+                    width: 240px;
+                    height: 120px;
+                    margin-top: 3%;
+                    margin-left: -20px;
+                }
+                .gazelle_text{
+                    margin-top: 20px;
+                    font-size: 50%;
+                    font-family: 'Raleway', sans-serif;
+                    width: 240px;
+                    margin-left: auto;
+                    margin-right: auto;
+                }
+                .pic_cars{
+                    width: 240px;
+                    height: 120px;
+                    margin-top: 3%;
+                    margin-bottom: 60px;
+                    margin-left: -10px;
+                }
+                .cars_text{
+                    font-size: 60%;
+                    font-family: 'Raleway', sans-serif;
+                    margin-left: auto;
+                    margin-right: auto;
+                    width: 240px;
+                    top: 500px;
+                }
+                .hr_content{
+                    width: 90%;
+                    height: 1px;
+                    background-color: black;
+                    margin-top: 10%;
+                }
+                .logo_bottom{
+                    position: relative;
+                    background-color: black;
+                    top: 2%;
+                    left: 3%;
+                    padding: 10px;
+                    margin-bottom: 20px;
+                }
+                .bottom_text{
+                    margin-left: 50%;
+                    font-size: 50%;
+                    margin-top: -18%;
+                    width: 150px;
+                    margin-bottom: 20px;
+                }
+                .phone_gaz{
+                    text-align: center;
+                }
+                .content_gazelle{
+                    text-align: center;
+                }
+                .worker{
+                    width: 80%;
+                    height: 280px;
+                    opacity: 0%;
+                }
+                .tabl:hover .a_head{
+                    color: black;
+                }
+                .ul_head .tabl {
+                    cursor: pointer;
+                  }
+                  .ul_head .tabl > .a_head {
+                    display: block;
+                  }
+            }
+            #hellopreloader > p{display:none;}
+            #hellopreloader_preload{display: block;
+                position: fixed;
+                z-index: 99999;
+                top: 0%;
+                width: 100%;
+                height: 100%;
+                background: white url(img/MJ1Q.gif) center center no-repeat;
+                background-position-x: center;
+                background-size:150px;
+                text-align: center;}
+            .preload{
+                text-align: center;
+            }
